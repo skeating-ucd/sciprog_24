@@ -13,7 +13,7 @@ This folder contains practical 9 code
 * ./Magic
 
 Enter file name:  
-(User input) magic_square.txt
+(User input) magic_square.txt  
 No. lines, 3  
   
   
